@@ -3,9 +3,9 @@
 Este proyecto corresponde a la solución del **Ejercicio 1: Implementación de Sensores**, desarrollado en Kotlin utilizando Jetpack Compose. La aplicación demuestra el uso de hardware del dispositivo, gestión eficiente de energía y personalización de temas institucionales (IPN y ESCOM).
 
 ## 📋 Datos del Estudiante
-* **Nombre:** [Tu Nombre Completo Aquí]
-* **Boleta:** [Tu Número de Boleta]
-* **Grupo:** [Tu Grupo]
+* **Nombre:** Hernandez Aranda Hector Alejandro
+* **Boleta:** 2022630481
+* **Grupo:** 7CV2
 * **Materia:** Desarrollo de Aplicaciones Móviles Nativas
 
 ---
